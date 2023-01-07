@@ -1,0 +1,4 @@
+name: AntiZombification
+version: '${project.version}'
+main: antizombification.antizombification.AntiZombification
+api-version: 1.19
